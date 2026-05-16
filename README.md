@@ -20,8 +20,7 @@ This repository contains the layout designs and simulations for fundamental digi
 # 🛠️ Tools Used
 
 - Microwind
-- CMOS Technology
-- DSCH (if used for schematic verification)
+
 
 ---
 
